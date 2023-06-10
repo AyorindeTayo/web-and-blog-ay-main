@@ -50,7 +50,7 @@ const BlogHeroSection: React.FC = () => {
             Hello, everyone! Welcome to my personal blog.
           </p>
           <p className="intro-2">
-            Ay, I will be writing about my projects (what I do/how I
+            In this blog, I will be writing about my projects (what I do/how I
             did), my personal projects, and some random stuffs.
           </p>
           <p className="intro-3">
