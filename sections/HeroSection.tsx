@@ -139,7 +139,7 @@ const HeroSection: React.FC = () => {
           </p>
           <p>
             With my expertise in building machine learning models,exploratory data analysis, building back and front end for machine learning application, continuous integration and development CI/CD of machine learning models using the following tools Python, JavaScript, SQL, Matlab, React, TensorFlow, Dockers, Flask, Heroku, Streamlit, AWS, GCP, Azure, Git, Spark, GitHub Actions, Keras, scikit‑learn, Google BigQuery,NextJS, 
-            Vscode,Vercel,GitHub Actions, Jenkins, Node.js, Fivetran, Gitlab, Jira, Kubeflow, CI/CD, Linux
+            Vscode,Vercel, Jenkins, Node.js, Fivetran, Gitlab, Jira, Kubeflow, CI/CD, Linux
             
           </p>
         </div>
