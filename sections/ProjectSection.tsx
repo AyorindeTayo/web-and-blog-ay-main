@@ -82,60 +82,8 @@ const projects = [
     codeUrl: "https://github.com/AyorindeTayo/Hardness-App",
     bgColor: "bg-[#B4BEE0]",
   },
-  {
-    title: "Haru Fashion",
-    type: "Frontend",
-    image: (
-      <Image
-        src={haruFashion}
-        sizes="100vw"
-        fill
-        alt="Haru Fashion App"
-        className="transition-transform duration-500 hover:scale-110 object-cover"
-      />
-    ),
-    desc: "An ecommerce web application where users can browse various products, add to wishlist, add to cart, and make purchase. Available in English and Burmese languages.",
-    tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
-    liveUrl: "https://haru-fashion.vercel.app/",
-    codeUrl: "https://github.com/satnaing/haru-fashion",
-    bgColor: "bg-[#A6CECE]",
-  },
-  {
-    title: "Haru API",
-    type: "Backend",
-    image: (
-      <Image
-        src={haruApi}
-        sizes="100vw"
-        fill
-        alt="Haru API"
-        className="transition-transform duration-500 hover:scale-110 object-cover"
-      />
-    ),
-    desc: "A RESTful API developed for Haru fashion ecommerce project. Include CRUD operations, authentication, authorization, forgot/reset password and full-text search.",
-    tags: ["ExpressJS", "TypeScript", "PostgreSQL", "Prisma"],
-    liveUrl: "https://satnaing.github.io/haru-api/",
-    codeUrl: "https://github.com/satnaing/haru-api",
-    bgColor: "bg-[#C5E4E7]",
-  },
-  {
-    title: "AstroPaper",
-    type: "Frontend",
-    image: (
-      <Image
-        src={astroPaper}
-        sizes="100vw"
-        fill
-        alt="AstroPaper"
-        className="transition-transform duration-500 hover:scale-110 object-cover"
-      />
-    ),
-    desc: "A minimal, responsive and SEO-friendly blog theme for Astro. This theme is developed with Astro, TypeScript and React. This theme includes fuzzy-search, pagination etc.",
-    tags: ["Astro", "TypeScript", "React", "TailwindCSS"],
-    liveUrl: "https://astro-paper.pages.dev/",
-    codeUrl: "https://github.com/satnaing/astro-paper",
-    bgColor: "bg-[#9FD0E3]",
-  },
+  
+
 ];
 
 export default ProjectSection;
