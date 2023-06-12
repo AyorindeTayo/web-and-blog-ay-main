@@ -20,7 +20,7 @@ excerpt:
   price elasticity of demand will be introduced, and how it is applied by marketers to track customer behavior and obtain the necessary insights. A use case will be considered using publicly available data for price elasticity of demand data analysis
 slug: Price elasticity of demand 
 featured: true
-category: How Do I
+category: Data Science 
 language: English
 ---
 
