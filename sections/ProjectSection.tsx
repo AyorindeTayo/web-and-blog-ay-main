@@ -12,7 +12,7 @@ import terminalPortfolio from "public/projects/image 3.webp";
 import haruFashion from "public/projects/7.webp";
 import haruApi from "public/projects/haru-api.webp";
 import astroPaper from "public/projects/astro-paper.webp";
-
+import StreamlitDashboard from "public/projects/StreamlitDashboard.webp";
 const ProjectSection: React.FC = () => {
   const { theme } = useTheme();
 
@@ -100,7 +100,25 @@ const projects = [
     codeUrl: "https://github.com/AyorindeTayo/Web-Scrapping-and-Sentiments-Analysis-of-Covid-19/blob/main/AnalysisCOVID_19_subvariant_XBB_1_5.ipynb",
     bgColor: "bg-[#A6CECE]",
   },
-
+  {
+    title: "Marketing KPI - Key Metric Dashboard",
+    type: "Frontend",
+    image: (
+      <Image
+        src={StreamlitDashboard}
+        sizes="100vw"
+        fill
+        alt="Dashbaord"
+        className="transition-transform duration-500 hover:scale-110 object-cover"
+      />
+    ),
+    desc: "Streamlit Marketing KPI key metrics. The dash was designed with Python and deployed on streamlit to visualize digital marketing data.",
+    tags: [ "Python", "Dashboard", "Data Science", "Streamlit"],
+    liveUrl: "https://ayorindetayo-streamlit-marketing-kpi-key-metrics-app-cdrzlg.streamlit.app/",
+    codeUrl: "https://github.com/AyorindeTayo/Streamlit-Marketing-KPI-Key-metrics",
+    bgColor: "bg-[#A6CECE]",
+  },
+  
 ];
 
 export default ProjectSection;
