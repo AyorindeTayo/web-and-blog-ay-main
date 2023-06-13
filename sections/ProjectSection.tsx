@@ -112,7 +112,7 @@ const projects = [
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "Streamlit Marketing KPI key metrics. The dash was designed with Python and deployed on streamlit to visualize digital marketing data.",
+    desc: "Streamlit Marketing KPI key metrics. The dashboard was designed with Python and deployed on streamlit to visualize digital marketing data.",
     tags: [ "Python", "Dashboard", "Data Science", "Streamlit"],
     liveUrl: "https://ayorindetayo-streamlit-marketing-kpi-key-metrics-app-cdrzlg.streamlit.app/",
     codeUrl: "https://github.com/AyorindeTayo/Streamlit-Marketing-KPI-Key-metrics",
