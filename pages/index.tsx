@@ -22,11 +22,11 @@ type Props = {
 export const meta = {
   description:
     "Ayorinde Olanipekun is Machine Learning Engineer. He is passionate about writing codes and developing machine learning models to solve real-life challenges.",
-  author: "Sat Naing",
+  author: "Ayo Olanipekun",
   type: "website",
   ogImage: `${process.env.NEXT_PUBLIC_URL}/satnaing-dev-og-new.png`,
   siteName: "Ayorinde Olanipekun",
-  imageAlt: "Sat Naing portfolio website",
+  imageAlt: "Ayo Olanipekun portfolio website",
 };
 
 const Home: NextPage<Props> = ({ blogPosts }) => {
