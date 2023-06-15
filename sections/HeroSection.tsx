@@ -144,7 +144,7 @@ const HeroSection: React.FC = () => {
           </p>
         </div>
         <LinkButton href={`mailto:olanipekunayo2012@gmail.com`}>
-          Contact me!
+          Hire me!
         </LinkButton>
       </div>
       <a
