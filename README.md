@@ -76,5 +76,7 @@ Here are some inspiration and credits for the design of my portfolio. However I 
 
 The digital art in the hero section was illustrated by a friend of mine ([Swann Fevian Kyaw](https://www.facebook.com/bon.zai.3910) [@ToonHa](https://www.facebook.com/ToonHa-102639465752883))
 
+# Credit to Sat Naing: he designed the website. 
+
 
 
