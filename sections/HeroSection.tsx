@@ -102,8 +102,8 @@ const HeroSection: React.FC = () => {
               height={1374}
               priority
               id="character-illustration"
-              aria-label="Sat Naing character illustration levitating with a Macbook"
-              alt="Sat Naing character illustration"
+              aria-label="yo Olanipekun character illustration levitating with a Macbook"
+              alt="Ayo Olanipekun character illustration"
             />
           </div>
           <div className="laptop absolute top-14 sm:top-16 left-0 scale-[.41] xs:scale-[.45] pointer-events-none">
