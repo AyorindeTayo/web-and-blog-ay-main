@@ -3,7 +3,7 @@ coverImageWidth: "1200"
 coverImageHeight: "700"
 datetime: 2023-06-12T16:55:12.000+00:00
 tags:
-  - Python 
+  - Py 
   - Data Science 
   - price Elasticity 
   - Data Visualization 
