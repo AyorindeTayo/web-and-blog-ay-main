@@ -31,37 +31,7 @@
   <a>
 </p>
 
-## Running Locally
 
-Clone the project
-
-```bash
-git clone https://github.com/satnaing/satnaing.dev.git
-```
-
-Go to the project directory
-
-```bash
-cd satnaing.dev
-```
-
-Remove remote origin
-
-```bash
-git remote remove origin
-```
-
-Install dependencies
-
-```bash
-npm install
-```
-
-Start the server
-
-```bash
-npm run dev
-```
 
 ## Inspiration and Credits
 
