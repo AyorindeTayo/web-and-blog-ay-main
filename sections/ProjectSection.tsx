@@ -9,6 +9,7 @@ import useOnScreen from "hooks/useOnScreen";
 import useScrollActive from "hooks/useScrollActive";
 
 import terminalPortfolio from "public/projects/image 3.webp";
+import diabetes from "public/projects/diabetes.webp"
 import haruFashion from "public/projects/7.webp";
 import haruApi from "public/projects/haru-api.webp";
 import astroPaper from "public/projects/astro-paper.webp";
@@ -42,7 +43,7 @@ const ProjectSection: React.FC = () => {
         </RoughNotation>
       </div>
       <span className="project-desc text-center block mb-4" ref={elementRef}>
-        “Talk is cheap. Show me the code”? I got you. <br />
+        “Talk is cheap. Let me show you the code. <br />
         Here are some of my projects you shouldn't misss
       </span>
       <div className="flex flex-wrap">
@@ -82,6 +83,28 @@ const projects = [
     codeUrl: "https://github.com/AyorindeTayo/Hardness-App",
     bgColor: "bg-[#B4BEE0]",
   },
+
+  {
+    title: "Diabetes Prediction App",
+    type: "Frontend",
+    image: (
+      <Image
+        src={diabetes}
+        sizes="100vw"
+        fill
+        alt="diabetes app"
+        className="transition-transform duration-500 hover:scale-110 object-cover"
+      />
+    ),
+    desc: "Machine Learning APP for predicton of Diabetes probability using different features like BMI, Insulin, Skin Thickness, Blood Pressure. ",
+    tags: [ "NodeJS",  "React", "Flask app", "Pyhton", "CSS", "HTML"],
+    liveUrl: "https://diabetespredictionmodel.vercel.app/",
+    codeUrl: "https://github.com/AyorindeTayo/Machine-Learning-Deployment-with-Flask-React-and-NodeJs",
+    bgColor: "bg-[#B4BEE0]",
+  },
+
+
+
   {
     title: "Sentiments Analysis of Covid-19 XBB. 1.5 Variant",
     type: "Frontend",
