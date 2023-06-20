@@ -8,7 +8,7 @@ import { useSection } from "context/section";
 import useOnScreen from "hooks/useOnScreen";
 import useScrollActive from "hooks/useScrollActive";
 
-import terminalPortfolio from "public/projects/hardness image.webp";
+import terminalPortfolio from "public/projects/image 3.webp";
 import diabetes from "public/projects/diabetes.webp"
 import haruFashion from "public/projects/7.webp";
 import haruApi from "public/projects/haru-api.webp";
