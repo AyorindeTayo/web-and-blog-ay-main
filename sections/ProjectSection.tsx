@@ -79,11 +79,12 @@ const projects = [
     ),
     desc: "After carrying out machine Learning modeling, the model was saved in a pickel file. The Machine Learning app was built with Python Flask. ",
     tags: ["Flask app", "Pyhton", "CSS", "HTML"],
-    liveUrl: "https://github.com/AyorindeTayo/Hardness-App",
+    liveUrl: "https://ayorinde.pythonanywhere.com/",
     codeUrl: "https://github.com/AyorindeTayo/Hardness-App",
     bgColor: "bg-[#B4BEE0]",
   },
 
+  
   {
     title: "Diabetes Prediction App",
     type: "Frontend",
